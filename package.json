@@ -1,0 +1,19 @@
+{
+  "name": "shippingsolidity",
+  "description": "Shipping with Solidity",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "ganache":
+      "ganache-cli -m \"sample dog come year spray crawl learn general detect silver jelly pilot\""
+  },
+  "dependencies": {
+    "ganache-cli": "^6.1.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
